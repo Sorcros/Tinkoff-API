@@ -1,6 +1,6 @@
 import UIKit
 
-
+// commit
 struct News: Decodable {
   let title: String
   let description: String
